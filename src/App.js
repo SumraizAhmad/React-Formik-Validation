@@ -1,11 +1,11 @@
 
 import './App.css';
-import Formik from './Components/Formik/Formik';
+import OldFormik from './Components/OldFormik/OldFormik';
 
 function App() {
   return (
     <div className="App">
-      <Formik />
+      <OldFormik />
     </div>
   );
 }
